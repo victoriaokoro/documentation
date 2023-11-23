@@ -15,7 +15,7 @@ Author: Chloe Hulme (Product Lead)
 - Improving lighthouse scores after reviewing Lighthouse report
 - Preliminary designs made in Figma to redo front end
 
-## What we need to do next (in order of priority)
+##  What we need to do next (in order of priority)
 
 - Update contributing document to require screenshot of working code before merge (otherwise faulty
   code will break the application)
